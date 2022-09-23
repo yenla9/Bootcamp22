@@ -1,4 +1,8 @@
-# FinTech Bootcamp 2022
-# My name is Yen and I have a background in project management and product management. 
-# My career aspiration is to build Quantitative models for equity and crypto and create a product from it. 
-# I chose FinTech as a career path because I have an interest in Finance. 
+# Welcome to Bootcamp 2022
+![https://github.com/yenla9/Bootcamp22/tree/main/images](image.jpg)
+## This is a general description of fintech. 
+### Table of Contents
+[code] (https://github.com/yenla9/Bootcamp22/tree/main/code)
+[data] (https://github.com/yenla9/Bootcamp22/tree/main/data)
+[images] (https://github.com/yenla9/Bootcamp22/tree/main/images)
+[references] (https://github.com/yenla9/Bootcamp22/tree/main/references)
