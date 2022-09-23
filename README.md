@@ -2,17 +2,19 @@
 ### By: Yen
 
 ## <span style="color:blue">Overview and Origin</span>
-<font color='blue'>test blue color font</font>
 
-**Company:** Betterment
 
-**Incorporation:**
+**Company:** [Wealthfront](https://www.wealthfront.com/)
 
-* Founders: 
+**Industry:** Robo-Advising, Personal Finance, Stock Trading
 
-* How did the idea for the company (or project) come about?
+**Incorporation:** In 2008 as KaChing
 
-* How is the company funded? How much funding have they received?
+**Founders:** Andy Rachleff and Dan Carroll
+
+**Birth of Wealthfront (KaChing):**
+
+**Funding:** Wealthfront raised $274.2 Millions over 7 rounds from Angel to Series E and Convertible Note.
 
 
 ## <span style="color:blue">Business Activities:</span>
@@ -52,3 +54,8 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+## <span style="color:blue">Sources:</span>
+* https://en.wikipedia.org/wiki/Wealthfront
+* https://www.investopedia.com/wealthfront-review-4587933
+* https://www.crunchbase.com/organization/wealthfront
+* https://productmint.com/the-wealthfront-business-model-how-does-wealthfront-make-money/
