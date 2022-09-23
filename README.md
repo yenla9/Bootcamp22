@@ -1,20 +1,20 @@
 # Unit 1 Homework Assignment: FinTech Case Study
 ### By: Yen
 
-## Overview and Origin
+## <span style="color:blue">Overview and Origin</span>
 
-* Name of company
+**Company:** Betterment
 
-* When was the company incorporated?
+**Incorporation:**
 
-* Who are the founders of the company?
+* Founders: 
 
 * How did the idea for the company (or project) come about?
 
 * How is the company funded? How much funding have they received?
 
 
-## Business Activities:
+## <span style="color:blue">Business Activities:</span>
 
 * What specific financial problem is the company or project trying to solve?
 
@@ -24,7 +24,7 @@ What solution does this company offer that their competitors do not or cannot of
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
-## Landscape:
+## <span style="color:blue">Landscape:</span>
 
 * What domain of the financial industry is the company in?
 
@@ -33,7 +33,7 @@ What solution does this company offer that their competitors do not or cannot of
 * What are the other major companies in this domain?
 
 
-## Results
+## <span style="color:blue">Results:</span>
 
 * What has been the business impact of this company so far?
 
@@ -42,7 +42,7 @@ What solution does this company offer that their competitors do not or cannot of
 * How is your company performing relative to competitors in the same domain?
 
 
-## Recommendations
+## <span style="color:blue">Recommendations:</span> 
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
