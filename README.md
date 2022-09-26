@@ -35,15 +35,16 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 | Betterment|Digital 0.25% AUM Premium 0.40% AUM|ETFs|Digital $0.00 Premium $100,000|0.75%|	Yes|Weekday phone, email,  virtual assistant chatbot| Yes
 |SoFi|No investment mgmt fee ETF expense ratios range from 0.02% to 0.08%|ETFs|	$1 to open an account $5 to begin investing|  --	|No| Chat, email, and phone| Yes - available to all customers for free
 |Vanguard Personal Advisor Services|0.15%-0.20%|Mutual funds, ETFs, and collective investment trusts|	3,000|	Monthly dividend based on the yields of money market| 	No |	Phone and online chat|	No
-    *Source: Investopedia*
+
+*Source: Investopedia*
 
 **Technology Stack:** All of their products are hosted on Google Cloud Platform. 
 
-    *Diagram: WealthFront TechStack*
+*Diagram: WealthFront TechStack*
 
 ![Stack](https://github.com/yenla9/Bootcamp22/blob/main/WealthFrontTechStack.GIF)
 
-    *Source: Stackshare*
+*Source: Stackshare*
 ## <span style="color:blue">Landscape:</span>
 
 **Financial Industry Domain:** Robo-Advisor
@@ -72,7 +73,7 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 
 ![AUM](https://github.com/yenla9/Bootcamp22/blob/main/Statistica%20AUM2.jpg)
 
-    *Source: Statistica*
+*Source: Statistica*
 
 **Portfolio Returns:** WealthFront delivered 11.6% on 3 yr overall returns. It ranked 4th compare to its competitors. 
 
@@ -80,14 +81,14 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 
 ![Portfolio Return](https://github.com/yenla9/Bootcamp22/blob/main/portreturns2.jpg)
 
-    *Source: Statistica*
+*Source: Statistica*
 
 **Growth of Accounts:** In the first quarter of 2020, WealthFront saw the growth of accounts increased by 68%. It ranked 2nd from the selected companies.
 *Chart: Growth of account openings of selected robo-advisor providers in the US in 1Q2020*
 
 ![GrowthAccount](https://github.com/yenla9/Bootcamp22/blob/main/growthaccount2.jpg)
 
-    *Source: Statistica*
+   *Source: Statistica*
 
 Overall, WealthFront is one of the top Robo-Advisors in the US. 
 
@@ -97,17 +98,17 @@ I recommend that WealthFront expand their product offering to Fine Art and/or Ar
 
 ![Artprice Index](https://github.com/yenla9/Bootcamp22/blob/main/Artprice.GIF)
 
-    *Source: Artmarket.com*
+*Source: Artmarket.com*
 
 Fine Art and Digital Token Art would be beneficial to WealthFront because the alternative investment does not correlate to the stock market and would expose more Millennial and Generation Z to fine and digital arts. It is an opportunity to bring in additional revenue for WealthFront. 
 
 There are few of existing online auctioneers that WealthFront can collaborate to implement the product offering like [Masterworks](https://www.masterworks.io/), [Rallyrd](https://rallyrd.com/), [Lot-Art](https://www.lot-art.com/), and [TokenArts](https://www.tokenarts.io/). The technology requirements will be integration with the auctioneer’s technology stack. For example, if WealthFront partners with [Masterworks](https://www.masterworks.io/), they would build an integration with Apache http server and Laravel. It will allow them to route the investment made by WealthFront consumers. 
 
-    *Diagram: Masterworks Technology Stack*
+*Diagram: Masterworks Technology Stack*
 
 ![Masterworks Techstack](https://github.com/yenla9/Bootcamp22/blob/main/Masterworks%20TechStack.GIF)
 
-    *Source: Stackshare*
+*Source: Stackshare*
 
 By building a bridge between alternative investment and robo-advising, WealthFront can forge a new niche in the FinTech Industry. 
 
