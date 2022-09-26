@@ -86,8 +86,10 @@ Overall, WealthFront is one of the top Robo-Advisors in the US.
 
 I recommend that WealthFront expand their product offering to Fine Art and/or Art Tokens. The Artprice 100 index is the blue chip Art Market index that tracks the top 100 important artists and their average performances over the previous five years. This would be an alternative investment product. In 2021, the Artprice 100 Index showed that return is up 36% compared to S&P500. 
 
-[Diagram]
+![Artprice Index](https://github.com/yenla9/Bootcamp22/blob/main/Artprice.GIF)
+
 *Source: Artmarket.com*
+
 Fine Art and Digital Token Art would be beneficial to WealthFront because the alternative investment does not correlate to the stock market and would expose more Millennial and Generation Z to fine and digital arts. It is an opportunity to bring in additional revenue for WealthFront. 
 
 There are few of existing online auctioneers that WealthFront can collaborate to implement the product offering like [Masterworks](https://www.masterworks.io/), [Rallyrd](https://rallyrd.com/), [Lot-Art](https://www.lot-art.com/), and [TokenArts](https://www.tokenarts.io/). The technology requirements will be integration with the auctioneer’s technology stack. For example, if WealthFront partners with [Masterworks](https://www.masterworks.io/), they would build an integration with Apache http server and Laravel. It will allow them to route the investment made by WealthFront consumers. 
