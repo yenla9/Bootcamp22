@@ -90,7 +90,7 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 
    *Source: Statistica*
 
-Overall, WealthFront performed relatively well compare to its competitors.
+Overall, WealthFront performed relatively strong compared to its competitors.
 
 ## <span style="color:blue">Recommendations:</span> 
 
