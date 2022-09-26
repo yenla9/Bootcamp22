@@ -34,7 +34,8 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 **Technology Stack:** All of their products are hosted on Google Cloud Platform. 
 
 *Diagram: WealthFront TechStack*
-![Stack](http)
+
+![Stack](https://github.com/yenla9/Bootcamp22/blob/main/WealthFrontTechStack.GIF)
 
 *Source: Stackshare*
 ## <span style="color:blue">Landscape:</span>
@@ -60,9 +61,10 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 
 **Performance Relative to Competitors:**
 **Asset Under Management:** WealthFront manages $24.87 Billion. It ranked 5th compare to its competitors.
+
 *Chart: Value of assets under management of selected robo-advisors worldwide as of March 2022 (in billion U.S. dollars)*
 
-[Chart]
+![AUM](https://github.com/yenla9/Bootcamp22/blob/main/Statistica%20AUM2.jpg)
 
 *Source: Statistica*
 
@@ -70,13 +72,14 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 
 *Chart: Portfolio return of selected robo-advisors worldwide in the 1st half of 2021*
 
-[Chart]
+![Portfolio Return](https://github.com/yenla9/Bootcamp22/blob/main/portreturns2.jpg)
+
 *Source: Statistica*
 
 **Growth of Accounts:** In the first quarter of 2020, WealthFront saw the growth of accounts increased by 68%. It ranked 2nd from the selected companies.
 *Chart: Growth of account openings of selected robo-advisor providers in the US in 1Q2020*
 
-[Chart]
+![GrowthAccount](https://github.com/yenla9/Bootcamp22/blob/main/growthaccount2.jpg)
 
 *Source: Statistica*
 
@@ -88,7 +91,7 @@ I recommend that WealthFront expand their product offering to Fine Art and/or Ar
 
 ![Artprice Index](https://github.com/yenla9/Bootcamp22/blob/main/Artprice.GIF)
 
-*Source: Artmarket.com*
+  *Source: Artmarket.com*
 
 Fine Art and Digital Token Art would be beneficial to WealthFront because the alternative investment does not correlate to the stock market and would expose more Millennial and Generation Z to fine and digital arts. It is an opportunity to bring in additional revenue for WealthFront. 
 
@@ -96,7 +99,8 @@ There are few of existing online auctioneers that WealthFront can collaborate to
 
 *Diagram: Masterworks Technology Stack*
 
-[Diagram]
+![Masterworks Techstack](https://github.com/yenla9/Bootcamp22/blob/main/Masterworks%20TechStack.GIF)
+
 *Source: Stackshare*
 
 By building a bridge between alternative investment and robo-advising, WealthFront can forge a new niche in the FinTech Industry. 
