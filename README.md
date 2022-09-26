@@ -139,4 +139,4 @@ https://www.wealthfront.com/blog/wealthfront-has-agreed-to-be-acquired-by-ubs/
 * https://rallyrd.com/
 * https://www.masterworks.io/
 
-Testing this
+Working with this new function
