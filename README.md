@@ -12,7 +12,7 @@
 
 **Founders:** Andy Rachleff and Dan Carroll
 
-**Birth of Wealthfront (KaChing):** The 2008 financial crash brought the two founders to explore solutions around democratizing access to sophisticated financial advice. Andy was a co-founder of Benchmark Capital- a successful VC Firm. He was also teaching at Stanford and on the Board of Trustees for the University Of Pennsylvania. During his tenure, he received questions for investment advice. He could not recommend the product or service he was using because of high minimum requirements. That was when he realized the need for everyone to have access to financial investment advice and technology. </br>
+**Birth of Wealthfront (KaChing):** The 2008 financial crash brought the two founders to explore solutions around democratizing access to sophisticated financial advice. Andy was a co-founder of Benchmark Capital (VC Firm). He was also teaching at Stanford and on the Board of Trustees for the University Of Pennsylvania. During his tenure, he received questions for investment advice. He could not recommend the product or service he was using because of high minimum requirements. That was when he realized the need for everyone to have access to financial investment advice and technology. </br>
 
 Dan was in a different situation. His parents were experiencing the impact of the 2008 financial crash. The financial advisor that his parents hired could not help them weather the crash. Therefore, he was on a mission to find a solution to provide the best financial advice to the people who were in the same situation as his parents. </br>
 
