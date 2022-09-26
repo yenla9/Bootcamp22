@@ -31,7 +31,7 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 
 | Company| Fee| Available Assets| Acc Min|	Cash Account APY| Tax Loss Harvesting| Customer Service| Financial Advisor|
 | ----------- | ----------- |----------- | ----------- |----------- |-----------|----------- | ----------- |
-| WealthFront|0.25% AUM|ETFs, Crypto, individual stocks|$500|2.55%|	Yes| Help Center FAQ, email, phone|	No
+| WealthFront|0.25% AUM|ETFs, Crypto, Individual Stocks|$500|2.55%|	Yes| Help Center FAQ, email, phone|	No
 | Betterment|Digital 0.25% AUM Premium 0.40% AUM|ETFs|Digital $0.00 Premium $100,000|0.75%|	Yes|Weekday phone, email,  virtual assistant chatbot| Yes
 |SoFi|No investment mgmt fee ETF expense ratios range from 0.02% to 0.08%|ETFs|	$1 to open an account $5 to begin investing|  --	|No| Chat, email, and phone| Yes - available to all customers for free
 |Vanguard Personal Advisor Services|0.15%-0.20%|Mutual funds, ETFs, and collective investment trusts|	3,000|	Monthly dividend based on the yields of money market| 	No |	Phone and online chat|	No
