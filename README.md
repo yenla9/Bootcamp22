@@ -42,7 +42,7 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 
 *Diagram: WealthFront TechStack*
 
-![Stack](https://github.com/yenla9/Bootcamp22/blob/main/WealthFrontTechStack.GIF)
+![Stack](https://github.com/yenla9/Bootcamp22/blob/main/Masterworks%20TechStack.GIF)
 
 *Source: Stackshare*
 ## <span style="color:blue">Landscape:</span>
