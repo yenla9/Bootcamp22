@@ -106,7 +106,7 @@ There are few of existing online auctioneers that WealthFront can collaborate to
 
 *Diagram: Masterworks Technology Stack*
 
-![Masterworks Techstack](https://github.com/yenla9/Bootcamp22/blob/main/Masterworks%20TechStack.GIF)
+![Masterworks Techstack](https://github.com/yenla9/Bootcamp22/blob/main/Masterworks%20TechStack.jpg)
 
 *Source: Stackshare*
 
