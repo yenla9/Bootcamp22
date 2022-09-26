@@ -90,7 +90,7 @@ After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (
 
    *Source: Statistica*
 
-Overall, WealthFront is one of the top Robo-Advisors in the US. 
+Overall, WealthFront performed relatively well compare to its competitors.
 
 ## <span style="color:blue">Recommendations:</span> 
 
@@ -110,7 +110,7 @@ There are few of existing online auctioneers that WealthFront can collaborate to
 
 *Source: Stackshare*
 
-By building a bridge between alternative investment and robo-advising, WealthFront can forge a new niche in the FinTech Industry. 
+By building a bridge between alternative investment and robo-advisor, WealthFront can forge a new niche in the FinTech Industry. 
 
 
 ## <span style="color:blue">Sources:</span>
