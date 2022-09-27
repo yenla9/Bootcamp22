@@ -19,6 +19,7 @@ Dan was in a different situation. His parents were experiencing the impact of th
 After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (Wealthfront) with a vision to help democratize access to sophisticated financial advice. They agreed that software was the mechanism to analyze and deliver it to their customers.
 
  **Funding:** Wealthfront raised $274.2 Millions over 7 rounds.
+ 
  ![Fund](https://github.com/yenla9/Bootcamp22/blob/main/WealthFrondFund.GIF)
 
  *Source: Crunchbase*
