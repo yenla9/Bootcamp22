@@ -127,7 +127,7 @@ By building a bridge between alternative investment and robo-advisor, WealthFron
 * https://www.statista.com/
 * https://www.innovate-d.com/insight-020/
 * https://www.theroboreport.com/blog/2020/06/innovation-trends-of-robo-advice/
-https://www.wealthfront.com/blog/wealthfront-has-agreed-to-be-acquired-by-ubs/
+* https://www.wealthfront.com/blog/wealthfront-has-agreed-to-be-acquired-by-ubs/
 * https://www.cnbc.com/select/wealthfront-autopilot-self-driving-money-review/
 * https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html
 * https://www.nanalyze.com/2022/03/generate-rental-income/
