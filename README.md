@@ -19,9 +19,11 @@ Dan was in a different situation. His parents were experiencing the impact of th
 After many cold calls, Andy and Dan met. In their meeting, they formed KaChing (Wealthfront) with a vision to help democratize access to sophisticated financial advice. They agreed that software was the mechanism to analyze and deliver it to their customers.
 
  **Funding:** Wealthfront raised $274.2 Millions over 7 rounds.
+ ![Fund]()
+ *Source: Crunchbase
 
 ## <span style="color:blue">Business Activities:</span>
-**Problem Statement:** Lack of good financial investment advice available for the underserved population.
+**Problem Statement:** Lack of good financial investment advice for the underserved population.
 
 **Value Proposition:** : Offer the best financial investment advice at a low cost and low minimum account requirement while leveraging automation.
 
